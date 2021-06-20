@@ -1,1 +1,1 @@
-# SCM
+# SCM is a project.
